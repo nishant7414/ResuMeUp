@@ -484,7 +484,7 @@ const LandingPage = () => {
                 target="_blank"
                 className="hover:text-purple-400 underline"
               >
-                Arth Agrawal
+                Nishant
               </a>
             </p>
           </div>
