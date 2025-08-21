@@ -14,8 +14,7 @@ const __dirname = path.dirname(__filename);
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://resume-builder-alpha-hazel.vercel.app",
-  "https://resumebuilder-frontend-8vou.onrender.com"
+  "https://resu-me-up.vercel.app"
 ];
 
 app.use(cors({

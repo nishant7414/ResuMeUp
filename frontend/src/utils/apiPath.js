@@ -1,4 +1,4 @@
-export const BASE_URL = "https://resumebuilder-kdne.onrender.com"
+export const BASE_URL = "https://resumeup-x0h4.onrender.com"
 
 //ROute used for frontend
 
